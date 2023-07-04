@@ -28,8 +28,8 @@ The results of this study are consistent with prior research on the classificati
 
 - `data/`: This directory contains the dataset used in the study.
 - `notebooks/`: This directory contains Jupyter notebooks with the code used for data preprocessing, model training, and evaluation.
-- `results/`: This directory contains the classification results obtained from the experiments.
-- `report.pdf`: The detailed report summarizing the study, including methodology, results, and discussion.
+- `outputs/`: This directory contains the classification results obtained from the experiments.
+- `ML_Coursework_2023_260072.pdf`: The detailed report summarizing the study, including methodology, results, and discussion.
 
 ## Usage
 
@@ -60,7 +60,7 @@ For detailed instructions on using the code and reproducing the study, please re
 
 This study compared the effectiveness of a multilayer perceptron and the XGBoost algorithm in classifying Turkish dry beans. Both methods outperformed a naive baseline model, but XGBoost demonstrated superior efficiency and faster runtimes. These findings highlight the viability of using boosting algorithms, such as XGBoost, in industrial applications for accurate and efficient classification of Turkish dry beans.
 
-Please refer to the [report.pdf](report.pdf) for a more comprehensive overview of the study and its findings.
+Please refer to the [ML_Coursework_2023_260072.pdf](ML_Coursework_2023_260072.pdf) for a more comprehensive overview of the study and its findings.
 
 ## References
 
